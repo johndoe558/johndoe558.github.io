@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://johndoe558.github.io/sitemap.xml
